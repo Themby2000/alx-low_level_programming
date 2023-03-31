@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *string_touper - change all lowercase to upprcase
- * @s: string
+ * string_toupper - change all lowercase to uppercase
+ * @s: string to transform
  *
- *Return: char
+ * Return: pointer to transformd string
  */
 char *string_toupper(char *s)
 {
