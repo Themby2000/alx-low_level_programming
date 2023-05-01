@@ -35,7 +35,7 @@ list_t *add_node(list_t **head, const char *str)
  * @s: s is a character
  * Return: value is i
  */
-int _strlen(char *s)
+int _strlen(const char *s)
 {
 	int i = 0;
 
