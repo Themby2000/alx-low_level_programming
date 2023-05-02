@@ -10,15 +10,15 @@
  */
 int main(void)
 {
-    list_t *head;
+	list_t *head;
 
-    head = NULL;
-    add_node_end(&head, "Anne");
-    add_node_end(&head, "Colton");
-    add_node_end(&head, "Corbin");
-add_node_end(&head, "Daniel");
+	head = NULL;
+	add_node_end(&head, "Anne");
+	add_node_end(&head, "Colton");
+	add_node_end(&head, "Corbin");
+	add_node_end(&head, "Daniel");
 	add_node_end(&head, "Danton");
- 	add_node_end(&head, "David");
+	add_node_end(&head, "David");
 	add_node_end(&head, "Gary");
 	add_node_end(&head, "Holden");
 	add_node_end(&head, "Ian");
@@ -29,7 +29,7 @@ add_node_end(&head, "Daniel");
 	add_node_end(&head, "Justin");
 	add_node_end(&head, "Kalson");
 	add_node_end(&head, "Kina");
- 	add_node_end(&head, "Matthew");
+	add_node_end(&head, "Matthew");
 	add_node_end(&head, "Max");
 	add_node_end(&head, "Michael");
 	add_node_end(&head, "Ntuj");
